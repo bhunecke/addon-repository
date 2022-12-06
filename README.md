@@ -9,3 +9,5 @@ Logins are disabled from the local network, but the web UI from within Home Assi
 cupsd.conf and Dockerfile modified from https://github.com/lemariva/wifi-cups-server
 
 Some of the Avahi and D-Bus code is modified from https://github.com/marthoc/docker-homeseer
+
+Original version from Nicholas Carr https://github.com/ncarr/addon-repository
