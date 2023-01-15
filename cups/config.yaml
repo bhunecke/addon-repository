@@ -1,5 +1,5 @@
 name: CUPS Print Server
-version: 0.1
+version: 2.0.0-alpha.1
 slug: cups
 description: A CUPS print server with Avahi installed
 url: https://github.com/bhunecke/addon-repository
@@ -33,4 +33,4 @@ schema:
   certfile: str
   keyfile: str
   require_ssl: bool
-image: bhunecke/aarch64-addon-cups
+image: bhunecke/{arch}-addon-cups

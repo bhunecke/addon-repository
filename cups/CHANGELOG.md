@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.0-alpha.1
+
+- Added support for most Samsung Printers
+
 ## 1.0.0-alpha.25
 
 - Used documented ingress path header for rewrites, removed JS
